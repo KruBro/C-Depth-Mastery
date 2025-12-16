@@ -1,0 +1,20 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.obj
+
+# Linker output
+*.map
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# IDE/Editor specific folders (optional but good practice)
+.vscode/
+.idea/
+*.DS_Store
