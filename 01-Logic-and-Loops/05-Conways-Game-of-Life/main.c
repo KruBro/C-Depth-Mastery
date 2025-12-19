@@ -89,6 +89,7 @@ void populateGrid(int **mat, int rows, int cols)
         {
             // 20% Chance of being Alive at start (Cleaner look than 50/50)
             mat[i][j] = (rand() % 5 == 0) ? 1 : 0;
+            // mat[i][j] = rand() & 1;
         }
     }
 }
