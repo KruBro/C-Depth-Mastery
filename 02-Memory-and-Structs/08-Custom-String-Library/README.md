@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # Project 08: Custom String Library
 
 **Phase 2: Memory & Pointers**
@@ -50,7 +46,6 @@ In C, strings are contiguous blocks of memory terminated by a **null character (
 
 ```bash
 gcc main.c mystring.c -o mystring
-````
 
 ### 2. Execute
 
