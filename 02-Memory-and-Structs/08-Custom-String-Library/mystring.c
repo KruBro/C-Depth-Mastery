@@ -40,8 +40,12 @@ char *my_strcat(char *dest, char const *src)
     {
         dest++; 
     }
-
     // 2. We are now sitting on the existing '\0'. Start copying over it.
+
+    //3. Added A space 
+    *dest = ' ';
+    dest++;
+
     while (*src)
     {
         *dest = *src;
