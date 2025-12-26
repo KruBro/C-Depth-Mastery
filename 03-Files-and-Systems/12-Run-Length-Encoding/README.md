@@ -1,5 +1,3 @@
-Here is the `README.md` file tailored exactly to your project, with the output section transcribed directly from your screenshots to document your successful execution.
-
 ---
 
 # Project 12: Run-Length Encoding (RLE) Compression Tool
