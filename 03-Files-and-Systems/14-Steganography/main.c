@@ -1,3 +1,8 @@
+/*
+ * Project: LSB Stegenography
+ * Author: Shahad K
+ * 29 Dec 2025
+ */
 #include <stdio.h>
 #include <string.h>
 #include "bitmap.h"

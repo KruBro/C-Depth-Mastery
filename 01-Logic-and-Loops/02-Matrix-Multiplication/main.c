@@ -3,6 +3,8 @@
  * Description: Multiplies two user-defined matrices (Row x Col).
  * Complexity: O(n^3) - Triple nested loop.
  * * Concepts: 2D Arrays, VLA (Variable Length Arrays), Pointer Decay.
+ * Shahad K
+ * 17-12-2025
  */
 
 #include <stdio.h>

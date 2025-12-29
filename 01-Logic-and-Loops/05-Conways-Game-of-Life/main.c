@@ -1,6 +1,8 @@
 /*
 Project-05-CONWAYS-GAME-OF-LIFE
 Read the README.md File for Implementation Details
+Shahad K
+19-12-2025
 */ 
 
 #include <stdio.h>

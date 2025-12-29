@@ -1,3 +1,8 @@
+/*
+ * Project: Save Game System
+ * Author: Shahad K
+ * 25 Dec 2025
+ */
 #include "save_manager.h"
 #include <string.h>
 int main()

@@ -1,3 +1,8 @@
+/*
+ * Project: Bitwise Permission Manager
+ * Author: Shahad K
+ * 24 Dec 2025
+ */
 #include <stdio.h>
 #include "permissions.h"
 

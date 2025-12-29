@@ -1,3 +1,8 @@
+/*
+ * Project: Run Length Encoding
+ * Author: Shahad K
+ * 26 Dec 2025
+ */
 #include "compressor.h"
 
 int main()

@@ -1,3 +1,8 @@
+/*
+ * Project: Student Record System
+ * Author: Shahad K
+ * 20 Dec 2025
+ */
 #include <stdio.h>
 #include "student.h"
 

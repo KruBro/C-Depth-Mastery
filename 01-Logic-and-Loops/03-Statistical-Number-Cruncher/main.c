@@ -3,6 +3,8 @@
  * Description: Calculates Mean, Median, Mode, and Standard Deviation.
  * Concepts: Bubble Sort, Math Library, O(N) Frequency Analysis.
  * Note: Requires linking with -lm (math library) on some compilers.
+ * Shahad K
+ * 18-12-2025
  */
 
 #include <stdio.h>

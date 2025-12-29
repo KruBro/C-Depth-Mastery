@@ -1,3 +1,8 @@
+/*
+ * Project: CSV Data Parser
+ * Author: Shahad K
+ * 27 Dec 2025
+ */
 #include "parser.h"
 
 int main()

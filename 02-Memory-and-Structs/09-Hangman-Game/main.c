@@ -1,8 +1,8 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
-#include <ctype.h>
+/*
+ * Project: Hangman Game
+ * Author: Shahad K
+ * 23 Dec 2025
+ */
 #include "game_logic.h"
 
 int main()

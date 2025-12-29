@@ -1,5 +1,10 @@
 #ifndef GAME_LOGIC_H
 #define GAME_LOGIC_H
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <ctype.h>
 
 typedef struct {
     char secretWord[50];

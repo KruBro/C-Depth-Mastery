@@ -1,3 +1,8 @@
+/*
+ * Project: Custom String Library
+ * Author: Shahad K
+ * 22 Dec 2025
+ */
 #include <stdio.h>
 #include "mystring.h"
 

@@ -2,6 +2,8 @@
  * Project: Credit Card Validator (Luhn Algorithm)
  * Description: Validates a credit card number using the Luhn checksum formula.
  * Logic: Reverse string -> Double every 2nd digit -> Sum -> Check Modulo 10.
+ * Shahad K
+ * 18-12-2025
  */
 
 #include <stdio.h>
